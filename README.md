@@ -1,5 +1,5 @@
 # Calculator Project
-This is a simple calculator project built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic calculations directly in the browser.
+This is a simple calculator project built with HTML, CSS, and JavaScript. It allows users to perform basic arithmetic calculations directly in the browser. I tried to make it with the simplest code I could make.
 
 ## Features
 * Addition, subtraction, multiplication, and division operations.
@@ -10,4 +10,4 @@ Responsive design for usability on various devices.
 * HTML
 * CSS
 * JavaScript
-### 🚀 Try it from <a href="https://youssehf.github.io/Basic-Calculator/" target="_blank" >HERE</a> 
+### 🚀 Try it from [HERE](https://youssehf.github.io/Basic-Calculator/)
